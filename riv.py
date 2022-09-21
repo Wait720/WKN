@@ -1,5 +1,4 @@
 import math
-from tkinter import Y
 x=float(input("Введіть х:"))
 y=float(input("Введіть у:"))
 def w(x,y):
